@@ -1,0 +1,14 @@
+C:\Users\olesya\Desktop\hw\task31\bin\Debug\net8.0\task31.exe
+C:\Users\olesya\Desktop\hw\task31\bin\Debug\net8.0\task31.deps.json
+C:\Users\olesya\Desktop\hw\task31\bin\Debug\net8.0\task31.runtimeconfig.json
+C:\Users\olesya\Desktop\hw\task31\bin\Debug\net8.0\task31.dll
+C:\Users\olesya\Desktop\hw\task31\bin\Debug\net8.0\task31.pdb
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.AssemblyInfoInputs.cache
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.AssemblyInfo.cs
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.csproj.CoreCompileInputs.cache
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.dll
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\refint\task31.dll
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.pdb
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\task31.genruntimeconfig.cache
+C:\Users\olesya\Desktop\hw\task31\obj\Debug\net8.0\ref\task31.dll
